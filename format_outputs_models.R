@@ -1,13 +1,12 @@
 #######################################
-## Cluster analisys for 19 species BRD
+# Data prepare for cluster analysis
+# 13 December 2019
+# Author: Tainá Rocha
 #######################################
 
-library(pvclust)
-library(vegan)
 library(raster)
 library(ggplot2)
 library(rgdal)
-library(betapart)
 
 
 ########### List and stack outputs CanESM2_45
