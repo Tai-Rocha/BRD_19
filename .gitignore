@@ -2,6 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+.tiff
 data/
 CanESM2_45/
-inputs_cluster/
+CanESM2_85/
+HadGEM2_45/
+HadGEM2_85/
+MIROC_45/
+MIROC_85/
+inputs_cluster/ 
