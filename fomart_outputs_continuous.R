@@ -124,3 +124,4 @@ for (i in 1:ncol(miroc_85)) {
 write.csv(miroc_85,file="miroc_85_cont.csv", sep = ",")
 write.table(miroc_85,file="miroc_85_cont.txt", sep = ",") 
 
+
