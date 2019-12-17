@@ -105,7 +105,7 @@ matrix_miroc85_cont <- matrix_miroc85_continuo[,-1]
 
 # Cluster analysis throught pvclust
 
-  cluster.upgma.euclidian.miroc.85 <-pvclust(matrix_miroc85_cont, method.hclust ="average", method.dist = "euclidean", nboot=1000)
+cluster.upgma.euclidian.miroc.85 <-pvclust(matrix_miroc85_cont, method.hclust ="average", method.dist = "euclidean", nboot=1000)
   plot(cluster.upgma.euclidian.miroc.85, main="MIROC_85")
 
 ## Save plot
