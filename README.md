@@ -1,3 +1,3 @@
 # BRD_19 species
 Resultados
-Este é o repositório com os dados e as análises da dissertação de mestrado da Luiza Gondim. 
+Este é o repositório com os dados e as análises da Bacia do Rio doce
